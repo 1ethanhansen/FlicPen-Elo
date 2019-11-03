@@ -5,7 +5,7 @@ A simple elo program like FRC elo or FRC elo app, but optimized for flicpen and 
 FlicPen is a simple game designed to be easy to play with minimal setup, equipment, and prior knowledge/skill. The goal is to earn points by forcing the opponent to give up a point. Points are given up when a player doesn’t make the pen all the way through the erasers in 3 or fewer flicks, when a player knocks an eraser over, or when the player hits the pen off the table.
 
 ## Where can I find more information about FlicPen?
-There is a FlicPen subreddit. Not much there because FlicPen is mainly just a thing between my friends and me.
+There is a [FlicPen subreddit](https://www.reddit.com/r/FlicPen/). Not much there because FlicPen is mainly just a thing between my friends and me.
 The rules for FlicPen are on the subreddit.
 
 ## How it works
